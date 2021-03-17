@@ -9,8 +9,9 @@
 * time_series_elongation.ipynb
 * Making a time series longer in a way that resebmles its known history (does not use any forecating)
 
-## Time Series Forecast Model Evaluation Using sktime
-* time_series_forecast_model_eval_using_sktime.ipynb
+## Forecast Evaluation Pipeline Using Sktime
+* forecast_eval_pipeline_using_sktime.ipynb
+* forecast_eval_pipeline_using_sktime.py
 * Running several methods and comapring between them over a period of time
 ### Related Links:
 * https://github.com/alan-turing-institute/sktime
